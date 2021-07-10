@@ -11,7 +11,7 @@ def main():
     """
 
     print("--------------------")
-    print("| codedrome.com    |")
+    print("| Isac Canedo      |")
     print("| Percentile Ranks |")
     print("--------------------\n")
 
