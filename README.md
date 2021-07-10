@@ -1,4 +1,4 @@
-Recentemente, escrevi um artigo sobre Z-Scores que ajuda no problema de comparar dois ou mais conjuntos de notas de exames, quando cada conjunto pode ter médias e spreads diferentes.
+Comparar dois ou mais conjuntos de notas de exames, quando cada conjunto pode ter médias e spreads diferentes.
 
 Mesmo que você tenha apenas uma nota no exame, ainda terá o problema de entender como ela se compara ao resto das notas, e neste post irei escrever uma implementação Python de classificações percentuais que oferecem uma solução possível para esse problema.
 
